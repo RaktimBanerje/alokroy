@@ -1,4 +1,3 @@
-
 <?php include('header.php') ?>
 <section>
     <div class="banner">
@@ -76,38 +75,38 @@
 
         <div class="container pt-5">
             <div class="row pt-5">
-                <div class="col-md-2 d-flex justify-content-center">
-                    <div class="social-icon d-flex flex-column align-items-center">    
+                <div class="col-6 col-md-2 d-flex justify-content-center mb-3 mb-md-0">
+                    <div class="social-icon d-flex flex-column align-items-center">
                         <i aria-hidden="true" class="fab fa-youtube"></i>
                         <h4 class="text">YouTube</h4>
                     </div>
                 </div>
-                <div class="col-md-2 d-flex justify-content-center">
-                    <div class="social-icon d-flex flex-column align-items-center">    
+                <div class="col-6 col-md-2 d-flex justify-content-center mb-3 mb-md-0">
+                    <div class="social-icon d-flex flex-column align-items-center">
                         <i aria-hidden="true" class="fab fa-instagram"></i>
                         <h4 class="text">Instagram</h4>
                     </div>
                 </div>
-                <div class="col-md-2 d-flex justify-content-center">
-                    <div class="social-icon d-flex flex-column align-items-center">    
+                <div class="col-6 col-md-2 d-flex justify-content-center mb-3 mb-md-0">
+                    <div class="social-icon d-flex flex-column align-items-center">
                         <i aria-hidden="true" class="fab fa-twitter"></i>
                         <h4 class="text">Twitter</h4>
                     </div>
                 </div>
-                <div class="col-md-2 d-flex justify-content-center">
-                    <div class="social-icon d-flex flex-column align-items-center">    
+                <div class="col-6 col-md-2 d-flex justify-content-center mb-3 mb-md-0">
+                    <div class="social-icon d-flex flex-column align-items-center">
                         <i aria-hidden="true" class="fab fa-spotify"></i>
                         <h4 class="text">Spotify</h4>
                     </div>
                 </div>
-                <div class="col-md-2 d-flex justify-content-center">
-                    <div class="social-icon d-flex flex-column align-items-center">    
+                <div class="col-6 col-md-2 d-flex justify-content-center mb-3 mb-md-0">
+                    <div class="social-icon d-flex flex-column align-items-center">
                         <i aria-hidden="true" class="fab fa-linkedin-in"></i>
                         <h4 class="text">Linkedin</h4>
                     </div>
                 </div>
-                <div class="col-md-2 d-flex justify-content-center">
-                    <div class="social-icon d-flex flex-column align-items-center">    
+                <div class="col-6 col-md-2 d-flex justify-content-center mb-3 mb-md-0">
+                    <div class="social-icon d-flex flex-column align-items-center">
                         <i aria-hidden="true" class="fab fa-facebook"></i>
                         <h4 class="text">Facebook</h4>
                     </div>
@@ -146,10 +145,77 @@
 
 <!-- Blog -->
 <section>
+    <div class="container video section_padding">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <img class="img-fluid video-play" src="assets/images/banner.webp">
+                <p class="text mt-4">warikoo is an Internet Entrepreneur based out of India and is one of India’s top content creators. He is also a bestselling author and conducts courses online as an educator. His aim through his content is to make sure all the choices you make in life come from a point of awareness and not ignorance.​</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Blog -->
+<section>
     <div class="container-fluid social section_padding">
         <h1 class="title text-center">Read my blog</h1>
         <p class="text my-2">Read the latest articles from ankur warikoo.</p>
 
+        <div class="container my-5">
+            <div class="swiper blogSwiper">
+                <div class="swiper-wrapper">
+                    <div class="swiper-slide">
+                        <div class="border border-4 border-white p-4 blog">
+                            <h3 class="text-white blog_title">Lorem ipsum</h3>
+                            <p class="publish_date my-3">July 9, 2023 - No Comments</p>
+                            <p class="text-white description">If you scored well, it is not your grades, but your hard work that will help you continue to succeed...</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="border border-4 border-white p-4 blog">
+                            <h3 class="text-white blog_title">Lorem ipsum</h3>
+                            <p class="publish_date my-3">July 9, 2023 - No Comments</p>
+                            <p class="text-white description">If you scored well, it is not your grades, but your hard work that will help you continue to succeed...</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="border border-4 border-white p-4 blog">
+                            <h3 class="text-white blog_title">Lorem ipsum</h3>
+                            <p class="publish_date my-3">July 9, 2023 - No Comments</p>
+                            <p class="text-white description">If you scored well, it is not your grades, but your hard work that will help you continue to succeed...</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="border border-4 border-white p-4 blog">
+                            <h3 class="text-white blog_title">Lorem ipsum</h3>
+                            <p class="publish_date my-3">July 9, 2023 - No Comments</p>
+                            <p class="text-white description">If you scored well, it is not your grades, but your hard work that will help you continue to succeed...</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="border border-4 border-white p-4 blog">
+                            <h3 class="text-white blog_title">Lorem ipsum</h3>
+                            <p class="publish_date my-3">July 9, 2023 - No Comments</p>
+                            <p class="text-white description">If you scored well, it is not your grades, but your hard work that will help you continue to succeed...</p>
+                        </div>
+                    </div>
+                    <div class="swiper-slide">
+                        <div class="border border-4 border-white p-4 blog">
+                            <h3 class="text-white blog_title">Lorem ipsum</h3>
+                            <p class="publish_date my-3">July 9, 2023 - No Comments</p>
+                            <p class="text-white description">If you scored well, it is not your grades, but your hard work that will help you continue to succeed...</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-pagination"></div>
+            </div>
+        </div>
+
+        <div class="text-center">
+            <a href="#" class="btn btn-light">VIEW ALL</a>
+        </div>
     </div>
 </section>
 
