@@ -33,24 +33,20 @@
       <div class="collapse navbar-collapse justify-content-end" id="collapsibleNavbar">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link" href="#">Home</a>
+            <a class="nav-link" href="index.php">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">My Story</a>
+            <a class="nav-link" href="mystory.php">My Story</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">The Mission</a>
+            <a class="nav-link" href="mymission.php">The Mission</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Mentorship</a>
+            <a class="nav-link" href="mentorship.php">Mentorship</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">The Mission</a>
+            <a class="nav-link" href="contact.php">Contact</a>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
-          </li>
-
         </ul>
       </div>
     </div>
