@@ -25,7 +25,7 @@
 </section>
 
 <section>
-    <div class="container content-area section_padding">
+    <div class="container content-area">
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <blockquote>

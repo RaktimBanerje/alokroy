@@ -30,7 +30,7 @@
 
 
 <section>
-    <div class="container content-area section_padding">
+    <div class="container content-area">
         <div class="row justify-content-center">
             <div class="col-md-12">
                 <p>Known as the Bengal Tiger of the Indian cricket team, Sourav Ganguly is arguably one of the most successful captains ever in the history of Indian cricket. Born on the 8th of July 1972 in Kolkata, the aggressive left-handed batsman entered the international cricketing arena in 1992 with his ODI debut against West Indies. Ganguly could not make an impression in his debut match and was dropped from the team only to return after four years due to his excellent domestic cricketing credentials.</p>

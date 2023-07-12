@@ -24,7 +24,7 @@
 
   <nav class="navbar navbar-expand-sm navbar-dark py-0" style="background-color: black;">
     <div class="container px-5">
-      <a class="navbar-brand" href="#">
+      <a class="navbar-brand" href="index.php">
         <img class="img-fluid" src="assets/images/logo.png" style="height: 70px;">
       </a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -40,9 +40,6 @@
           </li>
           <li class="nav-item">
             <a class="nav-link" href="mymission.php">The Mission</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="mentorship.php">Mentorship</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="contact.php">Contact</a>
